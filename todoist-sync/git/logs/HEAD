@@ -1,0 +1,39 @@
+0000000000000000000000000000000000000000 bcdd104ce009c44a23d605551dbaf709290d2cd3 noahdev4 <noahdev4@gmail.com> 1627683380 -0700	clone: from https://github.com/noahdev4/todoist-sync.git
+bcdd104ce009c44a23d605551dbaf709290d2cd3 5192540a0c31ac35105ee1b3c841c0f953c8d7c5 noahdev4 <noahdev4@gmail.com> 1627684147 -0700	commit: inital commit
+5192540a0c31ac35105ee1b3c841c0f953c8d7c5 ec9dcc4f164f705579b9dd6dc9875cf2c2b25bfb noahdev4 <noahdev4@gmail.com> 1627684229 -0700	commit: update gitignore
+ec9dcc4f164f705579b9dd6dc9875cf2c2b25bfb 7ba46c0bc946fccdfc11bf3f4c520e8239c117c3 noahdev4 <noahdev4@gmail.com> 1627686833 -0700	commit: begin work on implementing REST Api
+7ba46c0bc946fccdfc11bf3f4c520e8239c117c3 b10782595ce2d30b94dde19c6652519d88b69847 noahdev4 <noahdev4@gmail.com> 1627686885 -0700	pull: Merge made by the 'recursive' strategy.
+b10782595ce2d30b94dde19c6652519d88b69847 9f033bc7b33f3da3840a5ec26103fc5adb984470 noahdev4 <noahdev4@gmail.com> 1627687103 -0700	commit: update readme
+9f033bc7b33f3da3840a5ec26103fc5adb984470 9f033bc7b33f3da3840a5ec26103fc5adb984470 noahdev4 <noahdev4@gmail.com> 1627687369 -0700	checkout: moving from main to filters
+9f033bc7b33f3da3840a5ec26103fc5adb984470 9f033bc7b33f3da3840a5ec26103fc5adb984470 noahdev4 <noahdev4@gmail.com> 1627687388 -0700	checkout: moving from filters to main
+9f033bc7b33f3da3840a5ec26103fc5adb984470 9f033bc7b33f3da3840a5ec26103fc5adb984470 noahdev4 <noahdev4@gmail.com> 1627687418 -0700	checkout: moving from main to filters
+9f033bc7b33f3da3840a5ec26103fc5adb984470 725eb993c14bd94d51e744012424e74be462f3e7 noahdev4 <noahdev4@gmail.com> 1627688078 -0700	commit: begin tasks_by_filters implementation
+725eb993c14bd94d51e744012424e74be462f3e7 24d1d57078f8760665d7cc9ba6b156e3e87d59bd noahdev4 <noahdev4@gmail.com> 1627689146 -0700	commit: refactor fetch.py
+24d1d57078f8760665d7cc9ba6b156e3e87d59bd 9f033bc7b33f3da3840a5ec26103fc5adb984470 noahdev4 <noahdev4@gmail.com> 1627689171 -0700	checkout: moving from filters to main
+9f033bc7b33f3da3840a5ec26103fc5adb984470 24d1d57078f8760665d7cc9ba6b156e3e87d59bd noahdev4 <noahdev4@gmail.com> 1627689177 -0700	merge filters: Fast-forward
+24d1d57078f8760665d7cc9ba6b156e3e87d59bd 557e60919ef2c980a72549c75f965b51b3f8efc9 noahdev4 <noahdev4@gmail.com> 1627689516 -0700	commit: add TODO to fetch.py
+557e60919ef2c980a72549c75f965b51b3f8efc9 24d1d57078f8760665d7cc9ba6b156e3e87d59bd noahdev4 <noahdev4@gmail.com> 1627691291 -0700	checkout: moving from main to filters
+24d1d57078f8760665d7cc9ba6b156e3e87d59bd 557e60919ef2c980a72549c75f965b51b3f8efc9 noahdev4 <noahdev4@gmail.com> 1627691306 -0700	checkout: moving from filters to main
+557e60919ef2c980a72549c75f965b51b3f8efc9 24d1d57078f8760665d7cc9ba6b156e3e87d59bd noahdev4 <noahdev4@gmail.com> 1627691332 -0700	checkout: moving from main to filters
+24d1d57078f8760665d7cc9ba6b156e3e87d59bd 557e60919ef2c980a72549c75f965b51b3f8efc9 noahdev4 <noahdev4@gmail.com> 1627691339 -0700	merge main: Fast-forward
+557e60919ef2c980a72549c75f965b51b3f8efc9 557e60919ef2c980a72549c75f965b51b3f8efc9 noahdev4 <noahdev4@gmail.com> 1627691428 -0700	checkout: moving from filters to main
+557e60919ef2c980a72549c75f965b51b3f8efc9 fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 noahdev4 <noahdev4@gmail.com> 1627691773 -0700	commit: reformat file structure
+fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 noahdev4 <noahdev4@gmail.com> 1627694526 -0700	checkout: moving from main to todoist-api
+fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 f28b846414038b23d18945974b70fa97f900031a noahdev4 <noahdev4@gmail.com> 1627694635 -0700	commit: remove unneccessary files
+f28b846414038b23d18945974b70fa97f900031a b8400711a55783598c4f140d10c85e618affb52b noahdev4 <noahdev4@gmail.com> 1627696004 -0700	commit: reset file structure for SYNC API
+b8400711a55783598c4f140d10c85e618affb52b e72194cba9b619672e2bdb5616e95b8efa2e9512 noahdev4 <noahdev4@gmail.com> 1627705317 -0700	commit: implement get-task-by-label feature
+e72194cba9b619672e2bdb5616e95b8efa2e9512 85a74636251b6a74b2a157f3becedc177d1650dc noahdev4 <noahdev4@gmail.com> 1627705527 -0700	commit: update comments
+85a74636251b6a74b2a157f3becedc177d1650dc 85a74636251b6a74b2a157f3becedc177d1650dc noahdev4 <noahdev4@gmail.com> 1627705675 -0700	checkout: moving from todoist-api to test
+85a74636251b6a74b2a157f3becedc177d1650dc 85a74636251b6a74b2a157f3becedc177d1650dc noahdev4 <noahdev4@gmail.com> 1627705692 -0700	checkout: moving from test to test
+85a74636251b6a74b2a157f3becedc177d1650dc 85a74636251b6a74b2a157f3becedc177d1650dc noahdev4 <noahdev4@gmail.com> 1627705875 -0700	checkout: moving from test to todoist-api
+85a74636251b6a74b2a157f3becedc177d1650dc 85a74636251b6a74b2a157f3becedc177d1650dc noahdev4 <noahdev4@gmail.com> 1627705956 -0700	checkout: moving from todoist-api to label-search2
+85a74636251b6a74b2a157f3becedc177d1650dc ed86cdf4f18589c2d858ac3e2f7d4155b90a2cf5 noahdev4 <noahdev4@gmail.com> 1627706928 -0700	commit: refactor and optimize label-search algorithm
+ed86cdf4f18589c2d858ac3e2f7d4155b90a2cf5 85a74636251b6a74b2a157f3becedc177d1650dc noahdev4 <noahdev4@gmail.com> 1627706950 -0700	checkout: moving from label-search2 to todoist-api
+85a74636251b6a74b2a157f3becedc177d1650dc ed86cdf4f18589c2d858ac3e2f7d4155b90a2cf5 noahdev4 <noahdev4@gmail.com> 1627706965 -0700	merge label-search2: Fast-forward
+ed86cdf4f18589c2d858ac3e2f7d4155b90a2cf5 fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 noahdev4 <noahdev4@gmail.com> 1627707298 -0700	checkout: moving from todoist-api to main
+fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 3f4994f51f33da96905b60ad083b28826cad6465 noahdev4 <noahdev4@gmail.com> 1627707302 -0700	pull: Fast-forward
+3f4994f51f33da96905b60ad083b28826cad6465 ed86cdf4f18589c2d858ac3e2f7d4155b90a2cf5 noahdev4 <noahdev4@gmail.com> 1627707318 -0700	checkout: moving from main to todoist-api
+ed86cdf4f18589c2d858ac3e2f7d4155b90a2cf5 3f4994f51f33da96905b60ad083b28826cad6465 noahdev4 <noahdev4@gmail.com> 1627707324 -0700	checkout: moving from todoist-api to main
+3f4994f51f33da96905b60ad083b28826cad6465 3f4994f51f33da96905b60ad083b28826cad6465 noahdev4 <noahdev4@gmail.com> 1627707853 -0700	checkout: moving from main to gcal
+3f4994f51f33da96905b60ad083b28826cad6465 52ded5a0e98b631a61395d2eb1025ed66ef9c5a3 noahdev4 <noahdev4@gmail.com> 1627708926 -0700	commit: create gcal folder
+52ded5a0e98b631a61395d2eb1025ed66ef9c5a3 456a6475daf5399d6457acf05f299c235bcc98b9 Noah Sedlik <noahsedlik@berkeley.edu> 1653016182 -0700	commit: final commit

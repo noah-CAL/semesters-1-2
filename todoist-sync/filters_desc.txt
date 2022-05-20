@@ -1,0 +1,34 @@
+"""Python Description of filter queries"""
+
+# """fetch.py works by combining filter queries to retrieve tasks"""
+# #Available filters: https://todoist.com/help/articles/introduction-to-filters#combining-queries-to-create-even-more-powerful-filters
+
+# # BASIC
+# # ##Work                    retrieves tasks in Work project + subprojects
+# # /Meetings                 retrieves tasks under ALL sections named "Meetings" in ALL projects / subprojects
+# # created: Jan 3 2021
+# # created before:-2 days    retrieves tasks created BEFORE a date
+# # created after:-2 days     retrieves tasks created AFTER a date
+# # due before:+8 hours       retrieves tasks due within NEXT 8 hours
+
+# # Combinations
+# # & -- AND operator
+# # | -- OR operator
+# # ! -- NOT operator
+
+# def get_tasks_by_filter(query: str):
+#     """Retrieves all tasks with the specified filter query"""
+#     params = {
+#         'filter': query
+#     }
+#     return requests.get(
+#         'https://api.todoist.com/rest/v1/tasks',
+#         params = params,
+#         headers = AUTH_HEADER,
+#     ).json()
+
+# #TEST
+# if __name__ == '__main__':
+#     tasks = get_tasks_by_filter('created after:-2 days & @events')
+#     for task in tasks:
+#         print(task['content'])

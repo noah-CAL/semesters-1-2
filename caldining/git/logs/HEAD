@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 14519d32dc0d8241382deb9ac45e85ac3de1d4f3 noahdev4 <noahdev4@gmail.com> 1634352969 -0700	commit (initial): initial commit
+14519d32dc0d8241382deb9ac45e85ac3de1d4f3 14519d32dc0d8241382deb9ac45e85ac3de1d4f3 noahdev4 <noahdev4@gmail.com> 1634352989 -0700	checkout: moving from master to for-loop_cleanup
+14519d32dc0d8241382deb9ac45e85ac3de1d4f3 7bbc5d9e7ffb43697efb2769b4a2ed2bb8ce5428 noahdev4 <noahdev4@gmail.com> 1634409610 -0700	commit: add HTML data abstraction class
+7bbc5d9e7ffb43697efb2769b4a2ed2bb8ce5428 14519d32dc0d8241382deb9ac45e85ac3de1d4f3 noahdev4 <noahdev4@gmail.com> 1634409627 -0700	checkout: moving from for-loop_cleanup to master
+14519d32dc0d8241382deb9ac45e85ac3de1d4f3 7bbc5d9e7ffb43697efb2769b4a2ed2bb8ce5428 noahdev4 <noahdev4@gmail.com> 1634409649 -0700	checkout: moving from master to for-loop_cleanup
+7bbc5d9e7ffb43697efb2769b4a2ed2bb8ce5428 c88ccfe9be2845619cde5b1bf5ab7da39a48c15b noahdev4 <noahdev4@gmail.com> 1634410103 -0700	commit: create HTML structure
+c88ccfe9be2845619cde5b1bf5ab7da39a48c15b 14519d32dc0d8241382deb9ac45e85ac3de1d4f3 noahdev4 <noahdev4@gmail.com> 1634410110 -0700	checkout: moving from for-loop_cleanup to master
+14519d32dc0d8241382deb9ac45e85ac3de1d4f3 c88ccfe9be2845619cde5b1bf5ab7da39a48c15b noahdev4 <noahdev4@gmail.com> 1634410118 -0700	merge for-loop_cleanup: Fast-forward
+c88ccfe9be2845619cde5b1bf5ab7da39a48c15b c88ccfe9be2845619cde5b1bf5ab7da39a48c15b noahdev4 <noahdev4@gmail.com> 1634410143 -0700	checkout: moving from master to demo
+c88ccfe9be2845619cde5b1bf5ab7da39a48c15b 2fdee5af94fb0f314dd63cc1eefdd31c079663b0 noahdev4 <noahdev4@gmail.com> 1634410669 -0700	commit: add demo print statements
+2fdee5af94fb0f314dd63cc1eefdd31c079663b0 c88ccfe9be2845619cde5b1bf5ab7da39a48c15b noahdev4 <noahdev4@gmail.com> 1634410923 -0700	checkout: moving from demo to master
+c88ccfe9be2845619cde5b1bf5ab7da39a48c15b 2fdee5af94fb0f314dd63cc1eefdd31c079663b0 noahdev4 <noahdev4@gmail.com> 1634410930 -0700	merge demo: Fast-forward
+2fdee5af94fb0f314dd63cc1eefdd31c079663b0 2fdee5af94fb0f314dd63cc1eefdd31c079663b0 noahdev4 <noahdev4@gmail.com> 1634410966 -0700	checkout: moving from master to oop-cleanup
+2fdee5af94fb0f314dd63cc1eefdd31c079663b0 8b0de0a894a3cdc722d4d6bbe5c4abd26647d356 noahdev4 <noahdev4@gmail.com> 1634411795 -0700	commit: reduce redundant OOP classes
+8b0de0a894a3cdc722d4d6bbe5c4abd26647d356 ea8505cf0c1e38d5d30ad3099cd434b26d40302d Noah Sedlik <noahsedlik@berkeley.edu> 1653016141 -0700	commit: final commit

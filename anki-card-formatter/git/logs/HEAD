@@ -1,0 +1,47 @@
+0000000000000000000000000000000000000000 a738bda364ef07d841e430b88eeaec49b1232768 noahdev4 <noahdev4@gmail.com> 1627256433 -0700	clone: from https://github.com/noahdev4/anki-card-formatter.git
+a738bda364ef07d841e430b88eeaec49b1232768 8d2c23bb9d76da4f673c9fabc76bbf08b2392933 noahdev4 <noahdev4@gmail.com> 1627256574 -0700	commit: initial commit
+8d2c23bb9d76da4f673c9fabc76bbf08b2392933 5051f0b08e2bbfc8b34850e2e123699d57de7aae noahdev4 <noahdev4@gmail.com> 1627257672 -0700	commit: refactor dataclass
+5051f0b08e2bbfc8b34850e2e123699d57de7aae 15056710a49a4cd3cb1492eeef69b87347f6caea noahdev4 <noahdev4@gmail.com> 1627258797 -0700	commit: implement Pygment lexer function
+15056710a49a4cd3cb1492eeef69b87347f6caea 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627259014 -0700	commit: add monokai style
+57add08c49a6928e14cade328163d37ef9efe54d 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627343309 -0700	checkout: moving from main to code-formatter
+57add08c49a6928e14cade328163d37ef9efe54d 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627347007 -0700	checkout: moving from code-formatter to main
+57add08c49a6928e14cade328163d37ef9efe54d 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627347061 -0700	checkout: moving from main to pygment-formatter
+57add08c49a6928e14cade328163d37ef9efe54d 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627347072 -0700	checkout: moving from pygment-formatter to main
+57add08c49a6928e14cade328163d37ef9efe54d 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627347087 -0700	checkout: moving from main to pygment-formatter
+57add08c49a6928e14cade328163d37ef9efe54d d3edbe46dfe23d6af9dfd80cb563947f0d923cec noahdev4 <noahdev4@gmail.com> 1627348149 -0700	commit: add test/ folder
+d3edbe46dfe23d6af9dfd80cb563947f0d923cec 19ee38907a8f4fcd1ff3896ec63aafeeb6c5cd98 noahdev4 <noahdev4@gmail.com> 1627348996 -0700	commit: add output.txt
+19ee38907a8f4fcd1ff3896ec63aafeeb6c5cd98 b37d5637f1055f7e16d08d72b87c7a7d449d336e noahdev4 <noahdev4@gmail.com> 1627349107 -0700	commit: Define format() function in code.py
+b37d5637f1055f7e16d08d72b87c7a7d449d336e 6b07b96102f66d1b21b94846ff291a6784790934 noahdev4 <noahdev4@gmail.com> 1627349231 -0700	commit: add output.txt to .gitignore
+6b07b96102f66d1b21b94846ff291a6784790934 fd700584c7c1c4bc76b3623b4c4b6ccc4fc9c5a8 noahdev4 <noahdev4@gmail.com> 1627349266 -0700	commit: add __init.py to utils/
+fd700584c7c1c4bc76b3623b4c4b6ccc4fc9c5a8 bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627349543 -0700	commit: rename styles/ folder
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627351015 -0700	checkout: moving from pygment-formatter to main
+57add08c49a6928e14cade328163d37ef9efe54d bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627351077 -0700	merge pygment-formatter: Fast-forward
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627357136 -0700	checkout: moving from main to copy-lexer
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627357148 -0700	checkout: moving from copy-lexer to main
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627357163 -0700	checkout: moving from main to copy-lexer
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627357299 -0700	checkout: moving from copy-lexer to copy-lexer
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627357785 -0700	checkout: moving from copy-lexer to keyboard
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b 9197948d2d3b8da99ef4f290413dbdc44c3bd440 noahdev4 <noahdev4@gmail.com> 1627408089 -0700	commit: add HTML and Bash to available lexers
+9197948d2d3b8da99ef4f290413dbdc44c3bd440 bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627408141 -0700	checkout: moving from keyboard to main
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b 9197948d2d3b8da99ef4f290413dbdc44c3bd440 noahdev4 <noahdev4@gmail.com> 1627408146 -0700	merge keyboard: Fast-forward
+9197948d2d3b8da99ef4f290413dbdc44c3bd440 9197948d2d3b8da99ef4f290413dbdc44c3bd440 noahdev4 <noahdev4@gmail.com> 1627408494 -0700	checkout: moving from main to format-test
+9197948d2d3b8da99ef4f290413dbdc44c3bd440 9197948d2d3b8da99ef4f290413dbdc44c3bd440 noahdev4 <noahdev4@gmail.com> 1627408508 -0700	checkout: moving from format-test to main
+9197948d2d3b8da99ef4f290413dbdc44c3bd440 425cddb58910cff37294ed65d4a7a80822bf047d noahdev4 <noahdev4@gmail.com> 1627408542 -0700	commit: fix BashLexer import error
+425cddb58910cff37294ed65d4a7a80822bf047d 9197948d2d3b8da99ef4f290413dbdc44c3bd440 noahdev4 <noahdev4@gmail.com> 1627408578 -0700	checkout: moving from main to format-test
+9197948d2d3b8da99ef4f290413dbdc44c3bd440 425cddb58910cff37294ed65d4a7a80822bf047d noahdev4 <noahdev4@gmail.com> 1627408590 -0700	merge main: Fast-forward
+425cddb58910cff37294ed65d4a7a80822bf047d 425cddb58910cff37294ed65d4a7a80822bf047d noahdev4 <noahdev4@gmail.com> 1627749313 -0700	checkout: moving from format-test to refactor
+425cddb58910cff37294ed65d4a7a80822bf047d a0754e9930142942269e283a456132de6ccec712 noahdev4 <noahdev4@gmail.com> 1627750043 -0700	commit: reformat file structure
+a0754e9930142942269e283a456132de6ccec712 a0754e9930142942269e283a456132de6ccec712 noahdev4 <noahdev4@gmail.com> 1627754611 -0700	checkout: moving from refactor to single-card
+a0754e9930142942269e283a456132de6ccec712 b4270bf64b209bdffce94f8a944735c0c1eaedd1 noahdev4 <noahdev4@gmail.com> 1627930622 -0700	commit: refactor cards into one class
+b4270bf64b209bdffce94f8a944735c0c1eaedd1 fb41399931ad369644c24cea1e1ac351bc27b9f4 noahdev4 <noahdev4@gmail.com> 1627930798 -0700	commit: rework file structure
+fb41399931ad369644c24cea1e1ac351bc27b9f4 e4ab7749b8a298f7bb1ad4887e43c7088c5610d7 noahdev4 <noahdev4@gmail.com> 1627931601 -0700	commit: finalize file restructure
+e4ab7749b8a298f7bb1ad4887e43c7088c5610d7 425cddb58910cff37294ed65d4a7a80822bf047d noahdev4 <noahdev4@gmail.com> 1627931608 -0700	checkout: moving from single-card to main
+425cddb58910cff37294ed65d4a7a80822bf047d e4ab7749b8a298f7bb1ad4887e43c7088c5610d7 noahdev4 <noahdev4@gmail.com> 1627931626 -0700	merge single-card: Fast-forward
+e4ab7749b8a298f7bb1ad4887e43c7088c5610d7 73ff79a90450a7aeba0877cc306b845353abff2a noahdev4 <noahdev4@gmail.com> 1627932109 -0700	commit: update docstring definitions
+73ff79a90450a7aeba0877cc306b845353abff2a 326478339e31c825c5d454a8ec8e1fa2fd1d52c6 noahdev4 <noahdev4@gmail.com> 1627932601 -0700	commit: Update file descriptions
+326478339e31c825c5d454a8ec8e1fa2fd1d52c6 326478339e31c825c5d454a8ec8e1fa2fd1d52c6 noahdev4 <noahdev4@gmail.com> 1628369242 -0700	checkout: moving from main to fields
+326478339e31c825c5d454a8ec8e1fa2fd1d52c6 5e68f8536a1763d955ec1db1a3084916c8d77303 noahdev4 <noahdev4@gmail.com> 1628463362 -0700	commit: create field function generator
+5e68f8536a1763d955ec1db1a3084916c8d77303 326478339e31c825c5d454a8ec8e1fa2fd1d52c6 noahdev4 <noahdev4@gmail.com> 1628463373 -0700	checkout: moving from fields to main
+326478339e31c825c5d454a8ec8e1fa2fd1d52c6 5e68f8536a1763d955ec1db1a3084916c8d77303 noahdev4 <noahdev4@gmail.com> 1628463377 -0700	merge fields: Fast-forward
+5e68f8536a1763d955ec1db1a3084916c8d77303 2eeeb09b1e456a61be3e0ad6b310c5f1ec0ce6c4 noahdev4 <noahdev4@gmail.com> 1634877573 -0700	commit: add copy-paste clipboard functionality
+2eeeb09b1e456a61be3e0ad6b310c5f1ec0ce6c4 3e2237b4b3d8e342cd074a489496f788366810c6 Noah Sedlik <noahsedlik@berkeley.edu> 1653015872 -0700	commit: last commit

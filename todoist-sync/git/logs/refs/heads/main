@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 bcdd104ce009c44a23d605551dbaf709290d2cd3 noahdev4 <noahdev4@gmail.com> 1627683380 -0700	clone: from https://github.com/noahdev4/todoist-sync.git
+bcdd104ce009c44a23d605551dbaf709290d2cd3 5192540a0c31ac35105ee1b3c841c0f953c8d7c5 noahdev4 <noahdev4@gmail.com> 1627684147 -0700	commit: inital commit
+5192540a0c31ac35105ee1b3c841c0f953c8d7c5 ec9dcc4f164f705579b9dd6dc9875cf2c2b25bfb noahdev4 <noahdev4@gmail.com> 1627684229 -0700	commit: update gitignore
+ec9dcc4f164f705579b9dd6dc9875cf2c2b25bfb 7ba46c0bc946fccdfc11bf3f4c520e8239c117c3 noahdev4 <noahdev4@gmail.com> 1627686833 -0700	commit: begin work on implementing REST Api
+7ba46c0bc946fccdfc11bf3f4c520e8239c117c3 b10782595ce2d30b94dde19c6652519d88b69847 noahdev4 <noahdev4@gmail.com> 1627686885 -0700	pull: Merge made by the 'recursive' strategy.
+b10782595ce2d30b94dde19c6652519d88b69847 9f033bc7b33f3da3840a5ec26103fc5adb984470 noahdev4 <noahdev4@gmail.com> 1627687103 -0700	commit: update readme
+9f033bc7b33f3da3840a5ec26103fc5adb984470 24d1d57078f8760665d7cc9ba6b156e3e87d59bd noahdev4 <noahdev4@gmail.com> 1627689177 -0700	merge filters: Fast-forward
+24d1d57078f8760665d7cc9ba6b156e3e87d59bd 557e60919ef2c980a72549c75f965b51b3f8efc9 noahdev4 <noahdev4@gmail.com> 1627689516 -0700	commit: add TODO to fetch.py
+557e60919ef2c980a72549c75f965b51b3f8efc9 fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 noahdev4 <noahdev4@gmail.com> 1627691773 -0700	commit: reformat file structure
+fc5cc3cbb2ffa6aa4de4a974fe7c1553022e2270 3f4994f51f33da96905b60ad083b28826cad6465 noahdev4 <noahdev4@gmail.com> 1627707302 -0700	pull: Fast-forward

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 deffb93917bfcb6242cd85bd1e356b84307a8281 Noah Sedlik <noahsedlik@berkeley.edu> 1644567248 -0800	branch: Created from master
+deffb93917bfcb6242cd85bd1e356b84307a8281 aec94427478daeeb46773973872e95d3b3386de1 Noah Sedlik <noahsedlik@berkeley.edu> 1644602043 -0800	commit: add BPM conversion functions
+aec94427478daeeb46773973872e95d3b3386de1 6052a9bedddca63973cf16baf602a2a6011ae3d8 Noah Sedlik <noahsedlik@berkeley.edu> 1644602612 -0800	commit: begin polyrhythm timer functionality
+6052a9bedddca63973cf16baf602a2a6011ae3d8 51b4e1e699cdabf126697af23c0ec67bc31ba91f Noah Sedlik <noahsedlik@berkeley.edu> 1653016168 -0700	commit: final commit

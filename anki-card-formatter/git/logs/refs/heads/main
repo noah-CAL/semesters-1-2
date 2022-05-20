@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 a738bda364ef07d841e430b88eeaec49b1232768 noahdev4 <noahdev4@gmail.com> 1627256433 -0700	clone: from https://github.com/noahdev4/anki-card-formatter.git
+a738bda364ef07d841e430b88eeaec49b1232768 8d2c23bb9d76da4f673c9fabc76bbf08b2392933 noahdev4 <noahdev4@gmail.com> 1627256574 -0700	commit: initial commit
+8d2c23bb9d76da4f673c9fabc76bbf08b2392933 5051f0b08e2bbfc8b34850e2e123699d57de7aae noahdev4 <noahdev4@gmail.com> 1627257672 -0700	commit: refactor dataclass
+5051f0b08e2bbfc8b34850e2e123699d57de7aae 15056710a49a4cd3cb1492eeef69b87347f6caea noahdev4 <noahdev4@gmail.com> 1627258797 -0700	commit: implement Pygment lexer function
+15056710a49a4cd3cb1492eeef69b87347f6caea 57add08c49a6928e14cade328163d37ef9efe54d noahdev4 <noahdev4@gmail.com> 1627259014 -0700	commit: add monokai style
+57add08c49a6928e14cade328163d37ef9efe54d bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b noahdev4 <noahdev4@gmail.com> 1627351077 -0700	merge pygment-formatter: Fast-forward
+bc02ea6f4fef6f6eb71e1d2859c5c6ad4b92535b 9197948d2d3b8da99ef4f290413dbdc44c3bd440 noahdev4 <noahdev4@gmail.com> 1627408146 -0700	merge keyboard: Fast-forward
+9197948d2d3b8da99ef4f290413dbdc44c3bd440 425cddb58910cff37294ed65d4a7a80822bf047d noahdev4 <noahdev4@gmail.com> 1627408542 -0700	commit: fix BashLexer import error
+425cddb58910cff37294ed65d4a7a80822bf047d e4ab7749b8a298f7bb1ad4887e43c7088c5610d7 noahdev4 <noahdev4@gmail.com> 1627931626 -0700	merge single-card: Fast-forward
+e4ab7749b8a298f7bb1ad4887e43c7088c5610d7 73ff79a90450a7aeba0877cc306b845353abff2a noahdev4 <noahdev4@gmail.com> 1627932109 -0700	commit: update docstring definitions
+73ff79a90450a7aeba0877cc306b845353abff2a 326478339e31c825c5d454a8ec8e1fa2fd1d52c6 noahdev4 <noahdev4@gmail.com> 1627932601 -0700	commit: Update file descriptions
+326478339e31c825c5d454a8ec8e1fa2fd1d52c6 5e68f8536a1763d955ec1db1a3084916c8d77303 noahdev4 <noahdev4@gmail.com> 1628463377 -0700	merge fields: Fast-forward
+5e68f8536a1763d955ec1db1a3084916c8d77303 2eeeb09b1e456a61be3e0ad6b310c5f1ec0ce6c4 noahdev4 <noahdev4@gmail.com> 1634877573 -0700	commit: add copy-paste clipboard functionality
+2eeeb09b1e456a61be3e0ad6b310c5f1ec0ce6c4 3e2237b4b3d8e342cd074a489496f788366810c6 Noah Sedlik <noahsedlik@berkeley.edu> 1653015872 -0700	commit: last commit
